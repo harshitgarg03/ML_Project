@@ -17,7 +17,7 @@ def train(filepath):
 
 	# Iterate through file to update tokens and emission_count
 	for line in lines:
-		line_split = line.strip().split(" ")
+		line_split = line.strip().rsplit(" ", 1)
 		if len(line_split) == 2:
 			token = line_split[0]
 			tag = line_split[1]
