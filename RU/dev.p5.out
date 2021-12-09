@@ -306,9 +306,9 @@
 , O
 очень O
 вкусно O
-. .. B-negative
-и I-negative
-вино I-negative
+. .. B-positive
+и I-positive
+вино I-positive
 , O
 несмотря O
 на O
@@ -2661,10 +2661,10 @@ Albertone I-negative
 в O
 " O
 Небо O
-" B-neutral
-приблизительно I-neutral
-в I-neutral
-19:00 I-neutral
+" B-negative
+приблизительно I-negative
+в I-negative
+19:00 I-negative
 9 O
 февраля O
 . O
