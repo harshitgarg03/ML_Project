@@ -4,6 +4,7 @@ import sys
 import math
 import copy
 from operator import *
+import argparse
 
 def train(filepath):
     with open(filepath, "r", encoding="utf8", errors='ignore') as f:
@@ -450,13 +451,20 @@ def write_output(filepath, lines, all_pred_tags):
 	print("Output successfully written!")
 
 if __name__ == '__main__':
+	parser = argparse.ArgumentParser()
+	parser.add_argument("-test", action='store_true')
+	arg = parser.parse_args()
+
 	root_dir = "./"
 	datasets = ["ES", "RU"]
 
 	for dataset in datasets:
-		print("For dataset {}:".format(dataset))
+		print("For dataset {}:".format(dataset)) 
 		train_path = root_dir + "{}/train".format(dataset)
-		evaluation_path = root_dir + "{}/dev.in".format(dataset)
+		if arg.test:
+			evaluation_path = root_dir + "{}/test.in".format(dataset + "-test")
+		else:
+			evaluation_path = root_dir + "{}/dev.in".format(dataset)
 
 		# Train
 		transition_count = transition(train_path)
@@ -487,7 +495,10 @@ if __name__ == '__main__':
 		assert len(lines) == len(all_pred_tags)
 		print("All words have a tag. Proceeding..")
 
-		output_path = root_dir + "{}/dev.p4.out".format(dataset)
+		if arg.test:
+			output_path = root_dir + "{}/test.p4.out".format(dataset + "-test")
+		else:
+			output_path = root_dir + "{}/dev.p4.out".format(dataset)
 		# print(all_pred_tags)
 		write_output(output_path, lines, all_pred_tags)
 		
