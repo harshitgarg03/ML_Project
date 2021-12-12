@@ -202,8 +202,8 @@ def viterbi_forward(emission_count, transition_count, tokens, sentence):
       else:
         trans = smallest
         
-      best_score_v = scores[0][v]["START"]["START"]
-      current_stop_score = best_score_v + trans
+      best_v = scores[0][v]["START"]["START"]
+      current_stop_score = best_v + trans
       scores[n]["STOP"]["START"][v] = current_stop_score
     
     path = ["STOP"]
@@ -265,8 +265,8 @@ def viterbi_forward(emission_count, transition_count, tokens, sentence):
         for old_u in scores[n-1][v]:
           state_v_arr.append(scores[n-1][v][old_u][u])
         
-        best_score_v = max(state_v_arr)
-        current_stop_score = best_score_v + trans
+        best_v = max(state_v_arr)
+        current_stop_score = best_v + trans
         scores[n]["STOP"][u][v] = current_stop_score
 
     # Backtracking path
@@ -364,9 +364,9 @@ def viterbi_forward(emission_count, transition_count, tokens, sentence):
             state_v_arr = []
             for old_u in scores[i-1][v]:
                 state_v_arr.append(scores[i-1][v][old_u][u])
-            best_score_v = max(state_v_arr)
+            best_v = max(state_v_arr)
 
-            current_score = best_score_v + trans + emission
+            current_score = best_v + trans + emission
             scores[i][w][u][v] = current_score
 
     scores[n] = {}
@@ -386,8 +386,8 @@ def viterbi_forward(emission_count, transition_count, tokens, sentence):
         for old_u in scores[n-1][v]:
           state_v_arr.append(scores[n-1][v][old_u][u])
         
-        best_score_v = max(state_v_arr)
-        current_stop_score = best_score_v + trans
+        best_v = max(state_v_arr)
+        current_stop_score = best_v + trans
         scores[n]["STOP"][u][v] = current_stop_score
 
 
