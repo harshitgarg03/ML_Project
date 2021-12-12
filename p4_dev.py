@@ -55,7 +55,7 @@ def train(filepath):
 
 
 # Bruteforce for the best K value 
-def est_emission_param(emission_count, token, tag, k = 3):
+def est_emission_param(emission_count, token, tag, k = 1):
     tag_dict = emission_count[tag]
     
     tag_dict = emission_count[tag]
@@ -498,7 +498,7 @@ if __name__ == '__main__':
 		if arg.test:
 			output_path = root_dir + "{}/test.p4.out".format(dataset + "-test")
 		else:
-			output_path = root_dir + "{}/dev.p4.out".format(dataset)
+			output_path = root_dir + "{}/devk1.p4.out".format(dataset)
 		# print(all_pred_tags)
 		write_output(output_path, lines, all_pred_tags)
 		
