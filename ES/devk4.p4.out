@@ -11,8 +11,8 @@ esmerado O
 
 Para O
 un O
-menu B-positive
-gastronomico I-positive
+menu O
+gastronomico O
 , O
 si O
 la O
@@ -83,12 +83,12 @@ mediterranea O
 ! O
 
 Una O
-verguenza B-neutral
+verguenza O
 todo O
 . O
 
 lo O
-tendre B-neutral
+tendre O
 en O
 cuenta O
 para O
@@ -131,8 +131,8 @@ nos O
 dormíamos O
 esperando O
 el O
-espectáculo B-negative
-prometido I-negative
+espectáculo O
+prometido O
 y O
 nos O
 fuimos O
@@ -178,8 +178,8 @@ la O
 culpa O
 que O
 el O
-espectáculo B-negative
-indicado I-negative
+espectáculo O
+indicado O
 a O
 las O
 23:30 O
@@ -189,7 +189,7 @@ una O
 y O
 no O
 hubiese O
-empezado B-negative
+empezado O
 . O
 
 muy O
@@ -197,8 +197,8 @@ buen O
 servicio B-positive
 , O
 incluido O
-aparca B-neutral
-coches I-neutral
+aparca O
+coches O
 , O
 esta O
 todo O
@@ -220,7 +220,7 @@ circuito O
 termal O
 . O
 
-11:00 B-neutral
+11:00 O
 de O
 la O
 noche O
@@ -235,12 +235,12 @@ olor O
 a O
 plancha O
 , O
-pescado B-positive
-y I-positive
-detergente I-positive
-invade I-positive
-la I-positive
-sala I-positive
+pescado O
+y O
+detergente O
+invade O
+la O
+sala O
 . O
 
 Gracias O
@@ -264,15 +264,15 @@ importa O
 , O
 si O
 por O
-contra B-positive
+contra O
 utilizaran O
 productos B-positive
-alterados I-positive
-genéticamente I-positive
+alterados O
+genéticamente O
 ya O
-mo B-positive
+mo O
 me O
-haría B-positive
+haría O
 tanta O
 gracias O
 , O
@@ -286,20 +286,20 @@ el O
 caso O
 . O
 
-Hubiera B-neutral
-mejorado I-neutral
-con I-neutral
+Hubiera O
+mejorado O
+con O
 un O
 mejor O
 trato B-positive
 , O
 servicio B-positive
 mas O
-predilecto B-positive
+predilecto O
 , O
 mesa O
 mas O
-confortable B-negative
+confortable O
 . O
 
 El O
@@ -308,8 +308,8 @@ bien O
 , O
 con O
 una O
-decoración B-positive
-escueta I-positive
+decoración O
+escueta O
 ( O
 ” O
 minimalista O
@@ -379,8 +379,8 @@ acerque O
 a O
 cenar O
 , O
-quedará B-negative
-insatisfecho I-negative
+quedará O
+insatisfecho O
 . O
 
 A O
@@ -407,8 +407,8 @@ excelente O
 
 Y O
 de O
-Can B-neutral
-Roca I-neutral
+Can O
+Roca O
 lo O
 mismo O
 . O
@@ -426,16 +426,16 @@ amenizaron O
 la O
 estancia O
 con O
-musica B-negative
-a I-negative
-un I-negative
-volumen I-negative
+musica O
+a O
+un O
+volumen O
 no O
 muy O
 normal O
 de O
-musica B-negative
-latinoamericana I-negative
+musica O
+latinoamericana O
 … O
 una O
 incongruencia O
@@ -449,17 +449,17 @@ Monasterio O
 y O
 da O
 comida B-positive
-italiana I-positive
+italiana O
 . O
 
 Son O
 muchos O
 , O
-muchísimos B-negative
-, I-negative
-los I-negative
-propietarios I-negative
-de I-negative
+muchísimos O
+, O
+los O
+propietarios O
+de O
 restaurantes O
 que O
 me O
@@ -469,8 +469,8 @@ que O
 no O
 aparecen O
 en O
-medios B-neutral
-especializados I-neutral
+medios O
+especializados O
 si O
 no O
 compran O
@@ -478,10 +478,10 @@ publicidad O
 , O
 si O
 no O
-invitan B-neutral
-a I-neutral
-los I-neutral
-listillos I-neutral
+invitan O
+a O
+los O
+listillos O
 , O
 etc O
 … O
@@ -502,10 +502,10 @@ hijos O
 otros O
 sin O
 embargo O
-estóicamente B-neutral
-aguantan I-neutral
-en I-neutral
-su I-neutral
+estóicamente O
+aguantan O
+en O
+su O
 puesto O
 y O
 que O
@@ -531,15 +531,15 @@ mesas B-negative
 . O
 
 Buena O
-realcion B-neutral
+realcion O
 calidad-precio O
 . O
 
 Volveremos O
 sin O
-lugar B-positive
-a I-positive
-dudas I-positive
+lugar O
+a O
+dudas O
 , O
 nos O
 quedan O
@@ -555,11 +555,11 @@ así O
 
 correcto O
 y O
-maxima B-negative
-comodidad I-negative
+maxima O
+comodidad O
 . O
 
-Evidentemente B-neutral
+Evidentemente O
 no O
 volveremos O
 ni O
@@ -568,7 +568,7 @@ creemos O
 nada O
 de O
 esa O
-invitacion B-negative
+invitacion O
 . O
 
 Repito O
@@ -594,7 +594,7 @@ de O
 bailar.La O
 cena O
 , O
-regular B-negative
+regular O
 . O
 
 Repetiremos O
@@ -620,7 +620,7 @@ pero O
 razonable O
 . O
 
-Ciertamente B-neutral
+Ciertamente O
 fue O
 desilusionante O
 , O
@@ -631,11 +631,11 @@ especial O
 , O
 a O
 la O
-escasez B-neutral
-en I-neutral
-los I-neutral
-s I-neutral
-egundos I-neutral
+escasez O
+en O
+los O
+s O
+egundos O
 platos O
 en O
 relación O
@@ -663,7 +663,7 @@ un O
 acierto O
 . O
 
-Igual B-neutral
+Igual O
 fué O
 pero O
 ya O
@@ -672,7 +672,7 @@ es O
 . O
 
 <+> O
-Sugerencias B-neutral
+Sugerencias O
 de O
 entrantes O
 y O
@@ -680,9 +680,9 @@ platos O
 principales O
 excelentes O
 , O
-claras B-negative
-y I-negative
-concisas I-negative
+claras O
+y O
+concisas O
 . O
 
 A O
@@ -699,7 +699,7 @@ simplemente O
 delicioso O
 . O
 
-Normalito B-positive
+Normalito O
 . O
 
 De O
@@ -710,9 +710,9 @@ habiamos O
 estado O
 en O
 rt O
-L B-negative
-` I-negative
-olivé I-negative
+L O
+` O
+olivé O
 desde O
 cuando O
 estaba O
@@ -739,11 +739,11 @@ recomendable O
 en O
 el O
 que O
-destacaria B-negative
+destacaria O
 el O
-bacalao B-negative
+bacalao O
 realmente O
-gustoso B-negative
+gustoso O
 y O
 en O
 su O
@@ -778,7 +778,7 @@ nosotros O
 pudimos O
 hablar O
 sin O
-gritar B-negative
+gritar O
 . O
 
 El O
@@ -821,7 +821,7 @@ el O
 servicio B-positive
 . O
 
-Ellos B-neutral
+Ellos O
 hacen O
 todo O
 lo O
@@ -830,7 +830,7 @@ por O
 que O
 no O
 se O
-note B-negative
+note O
 . O
 
 Local B-positive
@@ -936,11 +936,11 @@ el O
 trabajo O
 en O
 este O
-aspecto B-negative
+aspecto O
 . O
 
-Estupenda B-neutral
-cena O
+Estupenda O
+cena B-positive
 el O
 sábado O
 por O
@@ -966,21 +966,21 @@ perfecto O
 . O
 
 El O
-aspecto B-negative
-del I-negative
-local I-negative
+aspecto O
+del O
+local B-positive
 es O
 una O
 imitacion O
 pobre O
 de O
 los O
-tipicos B-positive
+tipicos O
 restaurantes O
-americanos B-positive
+americanos O
 de O
 comida B-positive
-rapida I-positive
+rapida O
 . O
 
 Nunca O
@@ -998,7 +998,7 @@ siempre O
 buenos O
 . O
 
-Ambas B-neutral
+Ambas O
 dos O
 muy O
 discretas O
@@ -1009,7 +1009,7 @@ en O
 este O
 tipo O
 de O
-establecimeinto B-negative
+establecimeinto O
 . O
 
 Trato B-positive
@@ -1057,8 +1057,8 @@ pedi O
 un O
 poco O
 de O
-salsa B-neutral
-provenzal I-neutral
+salsa O
+provenzal O
 y O
 nos O
 la O
@@ -1095,9 +1095,9 @@ cierto O
 , O
 a O
 modo O
-anecdótico B-negative
-, I-negative
-ampoco I-negative
+anecdótico O
+, O
+ampoco O
 dices O
 tú O
 por O
@@ -1162,7 +1162,7 @@ daré O
 yo O
 por O
 propia O
-iniciativa B-negative
+iniciativa O
 . O
 
 En O
@@ -1214,9 +1214,9 @@ EXTENSISIMA O
 bodega B-positive
 con O
 unos O
-abanicos B-negative
-de I-negative
-precios I-negative
+abanicos O
+de O
+precios O
 mas O
 que O
 accesible O
@@ -1225,9 +1225,9 @@ cualquier O
 bolsillo O
 ya O
 que O
-hay B-negative
-innumerables I-negative
-vinos I-negative
+hay O
+innumerables O
+vinos B-positive
 que O
 no O
 pasan O
@@ -1252,9 +1252,9 @@ y O
 sobre O
 todo O
 su O
-sumiller B-neutral
-responden I-neutral
-con I-neutral
+sumiller O
+responden O
+con O
 gran O
 eficacia O
 y O
@@ -1274,20 +1274,20 @@ sabores O
 
 El O
 local B-positive
-es I-positive
-estrecho I-positive
-y I-positive
-alargado I-positive
+es O
+estrecho O
+y O
+alargado O
 por O
 lo O
 que O
 al O
 fondo O
 es O
-difícil B-negative
-comunicarse I-negative
-sin I-negative
-gritar I-negative
+difícil O
+comunicarse O
+sin O
+gritar O
 sí O
 está O
 lleno O
@@ -1298,7 +1298,7 @@ el O
 caso O
 . O
 
-Tranquilo B-neutral
+Tranquilo O
 agradable O
 y O
 los O
@@ -1347,7 +1347,7 @@ justo O
 , O
 un O
 personal B-positive
-encantador.Al I-positive
+encantador.Al O
 dia O
 siguiente O
 fuimos O
@@ -1362,8 +1362,8 @@ vino O
 todo O
 resulto O
 muy O
-agradableLa B-neutral
-unica I-neutral
+agradableLa O
+unica O
 pega O
 que O
 pondria O
@@ -1392,7 +1392,7 @@ tendriamos O
 sitio B-positive
 . O
 
-Precios B-neutral
+Precios O
 : O
 correctos O
 , O
@@ -1435,13 +1435,13 @@ servicial O
 ! O
 ! O
 
-Pedir B-neutral
+Pedir O
 una O
 mesa O
 en O
 el O
 primer O
-piso B-negative
+piso O
 . O
 
 Estuve O
@@ -1465,7 +1465,7 @@ malo O
 . O
 
 El O
-changet B-neutral
+changet O
 era O
 salmuera O
 . O
@@ -1516,9 +1516,9 @@ referencias O
 
 Hicimos O
 unos O
-entrantes B-positive
-variados I-positive
-de I-positive
+entrantes O
+variados O
+de O
 inicio O
 , O
 bastante O
@@ -1552,8 +1552,8 @@ muy O
 apetecibles O
 , O
 es O
-difícil B-neutral
-decidirse I-neutral
+difícil O
+decidirse O
 y O
 el O
 trato B-positive
@@ -1593,21 +1593,21 @@ en O
 una O
 zona O
 que O
-decian B-positive
+decian O
 " O
 terraza B-positive
 " O
 y O
 que O
 estaba O
-comunicada B-negative
-con I-negative
-el I-negative
-salon I-negative
-y I-negative
-con I-negative
-toldos I-negative
-bajados I-negative
+comunicada O
+con O
+el O
+salon O
+y O
+con O
+toldos O
+bajados O
 . O
 
 Cena B-positive
@@ -1623,9 +1623,9 @@ nosotros O
 Sr O
 . O
 Gonzalo O
-López B-neutral
-Madrazo.Estoy I-neutral
-de I-neutral
+López O
+Madrazo.Estoy O
+de O
 acuerdo O
 con O
 sus O
@@ -1648,9 +1648,9 @@ comida B-positive
 pregunta O
 casi O
 siempre O
-retórica B-negative
-, I-negative
-epseranod I-negative
+retórica O
+, O
+epseranod O
 un O
 “ O
 muy O
@@ -1679,7 +1679,7 @@ molesta O
 siempre O
 . O
 
-Tuve B-neutral
+Tuve O
 que O
 decir O
 que O
@@ -1691,7 +1691,7 @@ y O
 aún O
 me O
 lo O
-negaban B-negative
+negaban O
 . O
 
 Volveremos O
@@ -1702,7 +1702,7 @@ recomendable O
 . O
 
 Algo O
-insípida B-neutral
+insípida O
 , O
 le O
 faltaba O
@@ -1786,9 +1786,9 @@ hecho O
 las O
 delicias O
 del O
-presentador B-neutral
-de I-neutral
-Bricomanía I-neutral
+presentador O
+de O
+Bricomanía O
 , O
 en O
 el O
@@ -1796,11 +1796,11 @@ capítulo O
 en O
 el O
 que O
-explica B-negative
+explica O
 como O
-rebozar B-negative
+rebozar O
 paredes O
-viejas B-negative
+viejas O
 . O
 
 La O
@@ -1819,8 +1819,8 @@ precios O
 adecuados O
 . O
 
-Tras B-neutral
-interesarme I-neutral
+Tras O
+interesarme O
 por O
 ese O
 ‘ O
@@ -1873,8 +1873,8 @@ verdad O
 , O
 con O
 alcachofas B-positive
-y I-positive
-parriladas I-positive
+y O
+parriladas O
 . O
 
 Y O
@@ -1944,10 +1944,10 @@ decir O
 vamos O
 a O
 una O
-exhibición B-positive
-de I-positive
-cocina I-positive
-al I-positive
+exhibición O
+de O
+cocina O
+al O
 restaurante O
 Bal O
 d O
@@ -2006,18 +2006,18 @@ servicio B-positive
 
 Platos B-positive
 mal O
-presentados B-negative
-, I-negative
-sobrevolando I-negative
-las I-negative
-cabezas I-negative
-de I-negative
+presentados O
+, O
+sobrevolando O
+las O
+cabezas O
+de O
 los O
 comensales O
 . O
 
 Aunque O
-advertimos B-neutral
+advertimos O
 de O
 q O
 a O
@@ -2045,12 +2045,12 @@ no O
 resultó O
 así O
 ( O
-sabía B-positive
-a I-positive
-patatas I-positive
-a I-positive
-la I-positive
-riojana I-positive
+sabía O
+a O
+patatas O
+a O
+la O
+riojana O
 ) O
 . O
 
@@ -2085,7 +2085,7 @@ y O
 mariscos B-positive
 . O
 
-Prefiero B-neutral
+Prefiero O
 no O
 opinar O
 por O
@@ -2103,11 +2103,11 @@ experiencia O
 
 Gonzalo O
 
-Aperitivos B-positive
+Aperitivos O
 : O
-Tartar B-positive
-de I-positive
-bacalao I-positive
+Tartar O
+de O
+bacalao O
 . O
 
 Un O
@@ -2129,16 +2129,16 @@ la O
 casa O
 ) O
 resultó O
-acorchado B-negative
-y I-negative
-duro I-negative
+acorchado O
+y O
+duro O
 , O
 así O
 como O
 el O
-plato B-negative
-de I-negative
-ciervo I-negative
+plato O
+de O
+ciervo O
 ( O
 26euros O
 el O
@@ -2157,17 +2157,17 @@ definitiva O
 , O
 se O
 le O
-presume B-negative
+presume O
 una O
-calidad B-negative
-avalada I-negative
-por I-negative
-galardones I-negative
+calidad O
+avalada O
+por O
+galardones O
 varios O
 y O
 nos O
 hemos O
-encontrado B-positive
+encontrado O
 una O
 comida B-positive
 bastante O
@@ -2178,24 +2178,24 @@ Muy O
 correcto O
 
 Croquetas O
-oleosas B-positive
+oleosas O
 , O
 salmón B-neutral
 marinado I-neutral
-insulso I-neutral
+insulso O
 y O
 escaso O
-láminas B-positive
-transparentes I-positive
+láminas O
+transparentes O
 , O
 alcachofas B-positive
 con I-positive
 almejas I-positive
-duras I-positive
-y I-positive
-sosas I-positive
-de I-positive
-vivero I-positive
+duras O
+y O
+sosas O
+de O
+vivero O
 cuando O
 el O
 precio O
@@ -2210,7 +2210,7 @@ el O
 carpaccio B-positive
 de I-positive
 rape I-positive
-testimonial I-positive
+testimonial O
 . O
 
 Los O
@@ -2257,28 +2257,28 @@ de I-negative
 otros O
 tipos O
 ( O
-olorosos B-negative
-, I-negative
-amontillados I-negative
-, I-negative
-PX I-negative
-, I-negative
-oportos I-negative
+olorosos O
+, O
+amontillados O
+, O
+PX O
+, O
+oportos O
 , O
 … O
 ) O
 sin O
-olvidar B-neutral
-los I-neutral
-coñac I-neutral
+olvidar O
+los O
+coñac O
 y O
 otros O
 licores O
 incluyendo O
 su O
-carta B-negative
-de I-negative
-puros I-negative
+carta O
+de O
+puros O
 . O
 
 El O
@@ -2297,19 +2297,19 @@ excelente O
 Y O
 poner O
 “ O
-piedras B-negative
-” I-negative
-de I-negative
-esas I-negative
+piedras O
+” O
+de O
+esas O
 q O
 venden O
 en O
-tiendas B-neutral
-turísticas I-neutral
+tiendas O
+turísticas O
 como O
-acompañamiento O
+acompañamiento B-negative
 al O
-café O
+café B-negative
 … O
 ¡ O
 ¡ O
@@ -2359,8 +2359,8 @@ de O
 ruido O
 que O
 hacer O
-sentirse B-neutral
-incómodo I-neutral
+sentirse O
+incómodo O
 y O
 no O
 disfrutar O
@@ -2375,7 +2375,7 @@ donde O
 me O
 encuentro O
 mas O
-agusto B-negative
+agusto O
 . O
 
 A O
@@ -2411,8 +2411,8 @@ la O
 amplitud B-positive
 de O
 las O
-mesas B-negative
-redondas I-negative
+mesas O
+redondas O
 ( O
 que O
 no O
@@ -2430,9 +2430,9 @@ que O
 si O
 todas O
 las O
-mesas B-negative
+mesas O
 se O
-ocupan B-negative
+ocupan O
 sólo O
 por O
 dos O
@@ -2497,7 +2497,7 @@ ofrecieron O
 más O
 una O
 vez O
-terminados B-negative
+terminados O
 . O
 
 Mi O
@@ -2641,9 +2641,9 @@ de O
 amigos O
 con O
 la O
-dueña B-negative
+dueña O
 muy O
-cariñosa B-negative
+cariñosa O
 en O
 el O
 trato B-positive
@@ -2692,7 +2692,7 @@ acogedor O
 euros O
 con O
 bodega B-positive
-incluida.Los I-positive
+incluida.Los O
 platos O
 no O
 estuvieron O
@@ -2708,16 +2708,16 @@ tomate O
 calamares B-negative
 con O
 pimientos B-negative
-de I-negative
-padrón I-negative
-, I-negative
-patatas I-negative
+de O
+padrón O
+, O
+patatas O
 confitadas O
 con O
 foie O
 y O
-arroz B-neutral
-meloso I-neutral
+arroz O
+meloso O
 ( O
 de O
 setas O
@@ -2773,7 +2773,7 @@ atendieron O
 fenomenal O
 y O
 muy O
-efectivos B-negative
+efectivos O
 . O
 
 Cuando O
@@ -2800,7 +2800,7 @@ jefe B-positive
 de I-positive
 sala I-positive
 le O
-presionaba B-positive
+presionaba O
 a O
 los O
 camareros B-positive
@@ -2832,7 +2832,7 @@ cual O
 es O
 muy O
 raro O
-actualmente B-negative
+actualmente O
 . O
 
 El O
@@ -2915,30 +2915,30 @@ una O
 decepción O
 
 Paella O
-coloreada B-neutral
+coloreada O
 bañada O
 de O
 aceite O
 , O
 gamba O
-immunda B-negative
+immunda O
 . O
 
 Pedimos O
 ensalada B-positive
-de I-positive
-espinacas I-positive
-, I-positive
-rissotto I-positive
-de I-positive
-setas I-positive
+de O
+espinacas O
+, O
+rissotto O
+de O
+setas O
 y O
-pulpo O
+pulpo B-negative
 con O
 langostinos O
 . O
 
-Cenar B-neutral
+Cenar O
 en O
 la O
 terraza B-positive
@@ -2983,10 +2983,10 @@ y O
 atentos O
 . O
 
-Servian B-negative
-el I-negative
-vino I-negative
-regando I-negative
+Servian O
+el O
+vino O
+regando O
 toda O
 la O
 mesa O
@@ -3130,8 +3130,8 @@ nada O
 ademas O
 dentro O
 del O
-menú B-positive
-entraba I-positive
+menú O
+entraba O
 todo O
 agua O
 , O
@@ -3178,12 +3178,12 @@ recomendable O
 ! O
 
 Tomamos O
-Vacío B-positive
+Vacío O
 y O
-Entrañas B-positive
+Entrañas O
 ( O
-especialidades B-neutral
-conocidas I-neutral
+especialidades O
+conocidas O
 , O
 entre O
 otras O
@@ -3213,8 +3213,8 @@ buenisimos O
 
 No O
 son O
-platos B-neutral
-rimbombantes I-neutral
+platos O
+rimbombantes O
 ( O
 ya O
 varias O
@@ -3227,10 +3227,10 @@ es O
 mejor O
 la O
 comida B-positive
-de I-positive
-Alhama I-positive
-de I-positive
-Aragón I-positive
+de O
+Alhama O
+de O
+Aragón O
 ) O
 , O
 pero O
@@ -3263,10 +3263,10 @@ estoy O
 buscando O
 , O
 era O
-pasta B-neutral
-china I-neutral
-con I-neutral
-avecrem I-neutral
+pasta O
+china O
+con O
+avecrem O
 , O
 sin O
 mas O
@@ -3274,7 +3274,7 @@ mas O
 
 La O
 luz B-negative
-natural I-negative
+natural O
 que O
 entra O
 por O
@@ -3283,20 +3283,20 @@ vidriera O
 de O
 la O
 terraza B-positive
-, I-positive
-añadida I-positive
-a I-positive
+, O
+añadida O
+a O
 la O
-decoración B-positive
+decoración O
 tan O
 acogedora O
 da O
 una O
 sensación O
 de O
-bienestar B-neutral
-difícil I-neutral
-de I-neutral
+bienestar O
+difícil O
+de O
 conseguir O
 en O
 otros O
@@ -3316,7 +3316,7 @@ fenomenal O
 toda O
 la O
 tarde O
-bañandonos B-negative
+bañandonos O
 . O
 
 ¿ O
@@ -3331,13 +3331,13 @@ a O
 
 <+> O
 entrantes B-positive
-pasables I-positive
-- I-positive
+pasables O
+- O
 normal O
 de O
 sabor O
 
-Maginifica B-neutral
+Maginifica O
 relacion O
 calidad O
 precio O
@@ -3361,7 +3361,7 @@ salsa I-positive
 caramelizada O
 y O
 puré B-positive
-trufado I-positive
+trufado O
 . O
 
 La O
@@ -3384,8 +3384,8 @@ Para O
 olvidar O
 
 Las O
-copas B-negative
-económicas I-negative
+copas O
+económicas O
 , O
 y O
 el O
@@ -3394,8 +3394,8 @@ de O
 las O
 Drag O
 ’ O
-s B-neutral
-regulero.En I-neutral
+s O
+regulero.En O
 resumen O
 le O
 doy O
@@ -3427,18 +3427,18 @@ picotear O
 , O
 pero O
 no O
-esperes B-neutral
-llenarte I-neutral
+esperes O
+llenarte O
 , O
 a O
 nos O
 que O
 te O
-gastes B-negative
+gastes O
 un O
-pastón B-negative
+pastón O
 . O
-Volvere B-negative
+Volvere O
 ? O
 
 El O
@@ -3547,8 +3547,8 @@ de O
 cosas O
 : O
 las O
-sillas B-neutral
-incomodas I-neutral
+sillas O
+incomodas O
 y O
 las O
 mesas O
@@ -3583,10 +3583,10 @@ nivel O
 que O
 cada O
 dia O
-hay B-negative
-en I-negative
-establecimientos I-negative
-de I-negative
+hay O
+en O
+establecimientos O
+de O
 toda O
 la O
 ciudad O
@@ -3599,25 +3599,25 @@ incluida O
 es O
 vergonzoso O
 que O
-tarden B-neutral
-10minutos I-neutral
+tarden O
+10minutos O
 en O
 emplatar O
 2 O
-pinchos B-negative
-templandolos I-negative
-en I-negative
-salamandra I-negative
-y I-negative
-napando I-negative
-de I-negative
-tosca I-negative
+pinchos O
+templandolos O
+en O
+salamandra O
+y O
+napando O
+de O
+tosca O
 manera O
 con O
 simple O
 aceite O
 de O
-cebollino B-negative
+cebollino O
 . O
 
 Ha O
@@ -3649,9 +3649,9 @@ habíamos O
 probado O
 y O
 no O
-sabíamos B-negative
+sabíamos O
 cómo O
-comerlas B-negative
+comerlas O
 y O
 uno O
 de O
@@ -3671,11 +3671,11 @@ Espero O
 que O
 no O
 se O
-olvide B-negative
-con I-negative
-el I-negative
-fin I-negative
-de I-negative
+olvide O
+con O
+el O
+fin O
+de O
 verano O
 , O
 un O
@@ -3697,7 +3697,7 @@ la O
 misma O
 linea O
 de O
-elegancia B-negative
+elegancia O
 . O
 
 Han O
@@ -3705,8 +3705,8 @@ quitado O
 la O
 carta O
 de O
-comida B-neutral
-mejicana I-neutral
+comida B-positive
+mejicana O
 , O
 que O
 era O
@@ -3721,11 +3721,11 @@ y O
 sólo O
 queda O
 comida B-positive
-italiana I-positive
-de I-positive
-calidad I-positive
-muy I-positive
-básica I-positive
+italiana O
+de O
+calidad O
+muy O
+básica O
 . O
 
 Los O
@@ -3738,7 +3738,7 @@ otros O
 restaurantes O
 ... O
 
-Servico B-neutral
+Servico O
 muy O
 amable O
 . O
@@ -3760,12 +3760,12 @@ mi O
 gusto O
 , O
 la O
-paella B-negative
-del I-negative
-moll I-negative
-del I-negative
-rellotge I-negative
-está I-negative
+paella B-positive
+del O
+moll O
+del O
+rellotge O
+está O
 en O
 el O
 punto O
@@ -3785,9 +3785,9 @@ de O
 todas O
 tanto O
 en O
-puesta B-neutral
-en I-neutral
-escena I-neutral
+puesta O
+en O
+escena O
 como O
 en O
 calidad O
@@ -3796,10 +3796,10 @@ cantidad O
 , O
 aqui O
 no O
-vale B-negative
-el I-negative
-topico I-negative
-de I-negative
+vale O
+el O
+topico O
+de O
 irte O
 a O
 comer O
@@ -3846,7 +3846,7 @@ el O
 restaurante O
 . O
 
-Pensabamos B-neutral
+Pensabamos O
 que O
 era O
 un O
@@ -3855,18 +3855,18 @@ despiste O
 pero O
 no O
 , O
-empezaron B-neutral
-a I-neutral
-cuchichear I-neutral
+empezaron O
+a O
+cuchichear O
 el O
 cocinero O
 y O
-camarero B-negative
-, I-negative
-criticandonos I-negative
-y I-negative
-riendose I-negative
-de I-negative
+camarero O
+, O
+criticandonos O
+y O
+riendose O
+de O
 nosotros O
 y O
 de O
@@ -3897,9 +3897,9 @@ el O
 cabrito B-positive
 . O
 
-Intento B-neutral
-de I-neutral
-buscar I-neutral
+Intento O
+de O
+buscar O
 mesa O
 libre O
 arriba O
@@ -3908,7 +3908,7 @@ abajo O
 . O
 
 para O
-describir B-neutral
+describir O
 a O
 este O
 ya O
@@ -3940,10 +3940,10 @@ salvo O
 el O
 vino O
 que O
-gano B-negative
-mucho I-negative
-al I-negative
-convertirlo I-negative
+gano O
+mucho O
+al O
+convertirlo O
 en O
 tinto O
 de O
@@ -3955,7 +3955,7 @@ fue O
 satisfactoria O
 . O
 
-Lamentablemente B-neutral
+Lamentablemente O
 la O
 relación O
 calidad-precio O
@@ -4021,10 +4021,10 @@ este O
 restaurante O
 no O
 le O
-pesará B-neutral
-en I-neutral
-la I-neutral
-calificación I-neutral
+pesará O
+en O
+la O
+calificación O
 el O
 no O
 estar O
@@ -4038,9 +4038,9 @@ Novodabo O
 tanto O
 como O
 le O
-pesó B-negative
-al I-negative
-Cachirulo I-negative
+pesó O
+al O
+Cachirulo O
 o O
 al O
 Dgusta O
@@ -4088,7 +4088,7 @@ tanto O
 en O
 decoracion B-positive
 , O
-comodidad B-positive
+comodidad O
 y O
 como O
 no O
@@ -4120,7 +4120,7 @@ fuera O
 un O
 concurso O
 de O
-miniaturas B-negative
+miniaturas O
 . O
 
 Espectacular O
@@ -4132,7 +4132,7 @@ sabroso O
 Recomendadisimo O
 ! O
 
-Necesitan B-neutral
+Necesitan O
 mejorar O
 si O
 quieren O
@@ -4179,10 +4179,10 @@ calidad O
 puede O
 ser O
 un O
-soplo B-positive
-de I-positive
-aire I-positive
-fresco I-positive
+soplo O
+de O
+aire O
+fresco O
 en O
 Zaragoza O
 . O
@@ -4190,8 +4190,8 @@ Zaragoza O
 Camareros B-positive
 simpáticos O
 , O
-comida B-neutral
-apreciable I-neutral
+comida B-positive
+apreciable O
 , O
 no O
 excepcional O
@@ -4199,13 +4199,13 @@ excepcional O
 precio O
 justo O
 ... O
-ruido B-negative
-espantoso I-negative
+ruido O
+espantoso O
 , O
 mucha O
-gente B-negative
-al I-negative
-rededor I-negative
+gente O
+al O
+rededor O
 para O
 conseguir O
 plazas O
@@ -4227,7 +4227,7 @@ a O
 personas O
 . O
 
-Deberían B-neutral
+Deberían O
 revisar O
 las O
 raciones O
@@ -4248,7 +4248,7 @@ cena O
 fantástica O
 . O
 
-Finalmente B-neutral
+Finalmente O
 me O
 gustaría O
 agradecerle O
@@ -4288,7 +4288,7 @@ opinión O
 y O
 usted O
 la O
-suya B-negative
+suya O
 . O
 
 fui O
@@ -4326,8 +4326,8 @@ S O
 . O
 Jordi O
 no O
-pudieron B-negative
-contestar I-negative
+pudieron O
+contestar O
 . O
 
 Ambiente B-positive
@@ -4370,7 +4370,7 @@ y O
 agradable O
 . O
 
-Afirmar B-neutral
+Afirmar O
 que O
 en O
 ese O
@@ -4383,7 +4383,7 @@ delicias O
 es O
 una O
 auténtica O
-temeridad B-negative
+temeridad O
 . O
 
 Yo O
@@ -4417,8 +4417,8 @@ lado O
 Calidad O
 excelente O
 , O
-carta B-positive
-extensísima I-positive
+carta O
+extensísima O
 , O
 servicio B-positive
 atento O
@@ -4427,9 +4427,9 @@ instalaciones O
 cuidadísimas O
 y O
 salones O
-privados B-negative
+privados O
 que O
-ensalzan B-negative
+ensalzan O
 todo O
 lo O
 dicho O
@@ -4464,8 +4464,8 @@ Totalmente O
 recomendable O
 para O
 una O
-comida B-neutral
-distendida I-neutral
+comida B-positive
+distendida O
 , O
 con O
 aroma O
@@ -4489,8 +4489,8 @@ sorprendente O
 , O
 amabilidad O
 mucho O
-camino B-neutral
-x I-neutral
+camino O
+x O
 delante O
 , O
 no O
@@ -4620,7 +4620,7 @@ que O
 quisieron O
 . O
 
-Hacía B-neutral
+Hacía O
 tiempo O
 no O
 me O
@@ -4709,18 +4709,18 @@ perfecto O
 . O
 
 no O
-cuiden B-positive
-al I-positive
-client I-positive
+cuiden O
+al O
+client O
 ; O
-sorollos B-positive
+sorollos O
 , O
 un O
 escandol O
 , O
 ha O
-perdut B-neutral
-tot I-neutral
+perdut O
+tot O
 l O
 ´ O
 encant O
@@ -4752,9 +4752,9 @@ ternasco B-positive
 a I-positive
 la I-positive
 brasa I-positive
-uff I-positive
-todavíalo I-positive
-saboreo I-positive
+uff O
+todavíalo O
+saboreo O
 , O
 muy O
 buena O
@@ -4795,12 +4795,12 @@ todo O
 aquel O
 de O
 buen O
-paladar B-negative
+paladar O
 . O
 
 Yo O
-acerté B-neutral
-con I-neutral
+acerté O
+con O
 el O
 postre O
 . O
@@ -4840,7 +4840,7 @@ así O
 … O
 . O
 
-Hablé B-neutral
+Hablé O
 con O
 el O
 restaurante O
@@ -4850,9 +4850,9 @@ de O
 antes O
 y O
 muy O
-gentílmente B-negative
+gentílmente O
 me O
-explicaron B-negative
+explicaron O
 los O
 3 O
 menús O
@@ -4863,7 +4863,7 @@ entre O
 semana O
 . O
 
-Entre B-neutral
+Entre O
 otras O
 cosas O
 tengo O
@@ -4894,7 +4894,7 @@ no O
 recomendable O
 . O
 
-Íbamos B-neutral
+Íbamos O
 ya O
 con O
 la O
@@ -4939,7 +4939,7 @@ pena O
 . O
 
 No O
-entndemos B-neutral
+entndemos O
 para O
 qué O
 nos O
@@ -5047,14 +5047,14 @@ sino O
 fuera O
 porque O
 los O
-forraron B-neutral
-con I-neutral
-huevas I-neutral
-de I-neutral
-pescado O
+forraron O
+con O
+huevas O
 de O
-color O
-naranja O
+pescado B-negative
+de I-negative
+color I-negative
+naranja I-negative
 que O
 con O
 su O
@@ -5065,22 +5065,22 @@ estar O
 conservadas O
 en O
 sal O
-énmascaraban B-neutral
-el I-neutral
-sabor I-neutral
-originarl I-neutral
-de I-neutral
-los I-neutral
-platos.No I-neutral
+énmascaraban O
+el O
+sabor O
+originarl O
+de O
+los O
+platos.No O
 se O
 si O
 fue O
 casualidad O
 lo O
 de O
-añadir B-negative
-las I-negative
-huevas I-negative
+añadir O
+las O
+huevas O
 a O
 los O
 dos O
@@ -5126,7 +5126,7 @@ haber O
 servido O
 sin O
 las O
-huevas B-negative
+huevas O
 . O
 
 Todo O
@@ -5162,9 +5162,9 @@ cosa O
 porque O
 en O
 pocas O
-cucharadas B-negative
+cucharadas O
 se O
-acaba B-negative
+acaba O
 de O
 comer O
 enseguida O
@@ -5215,10 +5215,10 @@ en O
 cuanto O
 a O
 las O
-reservas B-negative
+reservas O
 . O
 
-Atención B-neutral
+Atención O
 buena O
 del O
 camarero O
@@ -5226,9 +5226,9 @@ camarero O
 aunque O
 llevaba O
 demasiadas O
-mesas B-negative
-y I-negative
-costaba I-negative
+mesas O
+y O
+costaba O
 conseguir O
 su O
 atención B-positive
@@ -5264,7 +5264,7 @@ agradece O
 que O
 la O
 actuación B-positive
-comience I-positive
+comience O
 cuando O
 hemos O
 terminado O
@@ -5321,9 +5321,9 @@ algo O
 asi O
 como O
 conejo B-positive
-estofado I-positive
+estofado O
 o O
-pavo B-positive
+pavo O
 / O
 pollo O
 al O
@@ -5434,29 +5434,29 @@ también O
 Magnífica O
 propuesta O
 , O
-lúdica B-negative
-y I-negative
-cultural I-negative
+lúdica O
+y O
+cultural O
 , O
 donde O
 disfrutar O
 en O
-libertad B-positive
-de I-positive
-todos I-positive
-aquellos I-positive
-maridajes I-positive
+libertad O
+de O
+todos O
+aquellos O
+maridajes O
 que O
-convierten B-positive
+convierten O
 en O
 arte O
 las O
-meras B-neutral
-necesidades I-neutral
-primarias I-neutral
+meras O
+necesidades O
+primarias O
 del O
 ser O
-humano B-negative
+humano O
 . O
 
 Para O
@@ -5489,9 +5489,9 @@ a O
 los O
 dos O
 por O
-darme B-neutral
-la I-neutral
-informacion I-neutral
+darme O
+la O
+informacion O
 , O
 algun O
 dia O
@@ -5520,17 +5520,17 @@ que O
 poneis O
 mas O
 que O
-bajar B-negative
-al I-negative
-salon I-negative
+bajar O
+al O
+salon O
 , O
 bajas O
 a O
 los O
-infiernos B-negative
+infiernos O
 . O
 
-15.01 B-neutral
+15.01 O
 . O
 09 O
 vieira O
@@ -5545,11 +5545,11 @@ gusto O
 
 Los O
 camareros B-positive
-muy I-positive
-majos I-positive
-y I-positive
-constantemente I-positive
-pendientes I-positive
+muy O
+majos O
+y O
+constantemente O
+pendientes O
 que O
 no O
 nos O

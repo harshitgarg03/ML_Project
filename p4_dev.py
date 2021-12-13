@@ -27,6 +27,7 @@ def train(filepath):
                 nested_tag_dict = emission_count[tag]
             else:
                 nested_tag_dict = {}
+            # print(nested_tag_dict)
                 
             if token in nested_tag_dict:
                 nested_tag_dict[token] = nested_tag_dict[token] + 1
@@ -34,8 +35,11 @@ def train(filepath):
                 nested_tag_dict[token] = 1
             
             emission_count[tag] = nested_tag_dict
-    
+    # print(nested_tag_dict)
+    print("THIS IS TOKENS::::::::::::::::::::::::",tokens)
+    print("THIS IS CCOUNT::::::::::::::::::::::::",emission_count)
     return tokens, emission_count
+    
 #Laplace smoothing
 
 
@@ -55,16 +59,24 @@ def train(filepath):
 
 
 # Bruteforce for the best K value 
-def est_emission_param(emission_count, token, tag, k = 1):
+# Distribuition of states
+def est_emission_param(emission_count, token, tag, k = 4):
     tag_dict = emission_count[tag]
     
     tag_dict = emission_count[tag]
 
     if token != "#UNK#":
-        a = tag_dict.get(token, 0)
+      # print(list(emission_count.keys())[0])
+      # print(emission_count[list(emission_count.keys())[0]])
+      # print(([i for i in list(emission_count.keys())]))
+      # print(sum([sum(list(emission_count[i].values())) for i in list(emission_count.keys())]))
+      
+      a = tag_dict.get(token, 0)
     else:
-        a = k 
+      return sum(list(emission_count[tag].values())) / sum([sum(list(emission_count[i].values())) for i in list(emission_count.keys())])
+      # a = k 
     b = sum(tag_dict.values()) + k
+    
 
     return a / b
 
@@ -498,7 +510,7 @@ if __name__ == '__main__':
 		if arg.test:
 			output_path = root_dir + "{}/test.p4.out".format(dataset + "-test")
 		else:
-			output_path = root_dir + "{}/devk1.p4.out".format(dataset)
+			output_path = root_dir + "{}/dev.p4.out".format(dataset)
 		# print(all_pred_tags)
 		write_output(output_path, lines, all_pred_tags)
 		
